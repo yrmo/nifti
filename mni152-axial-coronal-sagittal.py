@@ -22,6 +22,5 @@ axes[2].set_title("Sagittal (from side)")
 axes[2].axis("off")
 
 plt.suptitle("MNI152", fontsize=14)
-plt.savefig("MNI152.jpg")
 plt.tight_layout()
 plt.show()
