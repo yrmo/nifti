@@ -1,9 +1,7 @@
-import nibabel as nib
+from mni152 import data
+
 import matplotlib.pyplot as plt
 import numpy as np
-
-img = nib.load("./mni152.nii/mni152.nii")
-data = img.get_fdata()
 
 fig, ax = plt.subplots(figsize=(6, 6))
 plt.subplots_adjust(bottom=0.15)

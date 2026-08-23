@@ -1,9 +1,7 @@
-import nibabel as nib
+from mni152 import data
+
 import numpy as np
 import matplotlib.pyplot as plt
-
-img = nib.load("./mni152.nii/mni152.nii")
-data = img.get_fdata()
 
 x_mid = data.shape[0] // 2
 y_mid = data.shape[1] // 2
