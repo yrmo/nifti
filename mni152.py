@@ -9,3 +9,4 @@ def load(path):
 data = load("./mni152.nii/mni152.nii")
 # data = load("./minimal.nii/minimal.nii")
 # data = load("./avg152T1_RL_nifti.nii/avg152T1_RL_nifti.nii")
+# data = load("./mni_icbm152_t1_tal_nlin_asym_09c.nii/mni_icbm152_t1_tal_nlin_asym_09c.nii")
