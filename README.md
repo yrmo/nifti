@@ -5,7 +5,7 @@
 
 ### [Neuroimaging Informatics Technology Initiative](https://nifti.nimh.nih.gov/index.html)
 
-- [MNI152](https://niivue.github.io/niivue-demo-images/mni152.nii.gz)
+- [mni152.nii](https://niivue.github.io/niivue-demo-images/mni152.nii.gz)
 - [avg152T1_RL_nifti.nii](https://nifti.nimh.nih.gov/nifti-1/data/avg152T1_RL_nifti.nii.gz/file_view.html)
 - [minimal.nii](https://nifti.nimh.nih.gov/nifti-1/data/minimal.nii.gz/file_view.html)
 
